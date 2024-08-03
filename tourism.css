@@ -4,7 +4,7 @@
     text-align: center;
     height:100vh;
     width:100vw;
-    background-image: url(https://i.pinimg.com/474x/38/28/24/382824efab0bf61b5500d1492035ef21.jpg);
+    background-image: URL("https://i.pinimg.com/474x/38/28/24/382824efab0bf61b5500d1492035ef21.jpg");
     background-size: cover;
     display: flex;
     flex-direction: column;
