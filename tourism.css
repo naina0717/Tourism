@@ -4,7 +4,7 @@
     text-align: center;
     height:100vh;
     width:100vw;
-    background-image:url(https://img.freepik.com/free-vector/watercolor-colorful-butterfly-background_23-2150146459.jpg?t=st=1715929564~exp=1715933164~hmac=f3b4c9e3c7f46da3321c3ca15ad15626165848981c04c06042f52fe4002e11b1&w=900);
+    background-image: url(https://img.freepik.com/free-vector/watercolor-colorful-butterfly-background_23-2150146459.jpg?t=st=1715929564~exp=1715933164~hmac=f3b4c9e3c7f46da3321c3ca15ad15626165848981c04c06042f52fe4002e11b1&w=900);
     background-size: cover;
     display: flex;
     flex-direction: column;
@@ -13,7 +13,7 @@
 }
 
 .main-heading{
-    color:blue;
+    color: blue;
     font-family: lobster;
     text-decoration: line-through;
     font-weight: bold;
@@ -22,7 +22,7 @@
 
 
 .para{
-    color:gray;
+    color: gray;
 }
 
 .card{
